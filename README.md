@@ -1,4 +1,4 @@
-# Hello Thrift C++
+# Hello Thrift C++ (CMake edition)
 
 here's how I got the thrift dependencies installed via conan
 
