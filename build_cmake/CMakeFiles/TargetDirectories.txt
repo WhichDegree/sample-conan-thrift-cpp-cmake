@@ -1,0 +1,4 @@
+/Users/emcp/Dev/git/WhichDegree/sample-conan-thrift-cpp-cmake/build_cmake/CMakeFiles/rebuild_cache.dir
+/Users/emcp/Dev/git/WhichDegree/sample-conan-thrift-cpp-cmake/build_cmake/CMakeFiles/edit_cache.dir
+/Users/emcp/Dev/git/WhichDegree/sample-conan-thrift-cpp-cmake/build_cmake/CMakeFiles/client.dir
+/Users/emcp/Dev/git/WhichDegree/sample-conan-thrift-cpp-cmake/build_cmake/CMakeFiles/server.dir
